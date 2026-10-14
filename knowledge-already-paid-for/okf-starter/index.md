@@ -1,7 +1,7 @@
 ---
 type: Index
 title: "OKF Starter"
-description: "A one-page OKF leave-behind and a small working example of a knowledge folder with README.md (for people) and index.md (for agents)."
+description: "A small working example of a knowledge folder with README.md (for people) and index.md (for agents)."
 status: active
 audience: agents
 owner: "Eric Hollebone"
@@ -27,7 +27,6 @@ stale_after: "2027-04-06"
 | Path | Type | What it holds | Status | Owner | Review due |
 |---|---|---|---|---|---|
 | `README.md` | Readme | For people: what this folder is and how to use it | active | Eric Hollebone | 2027-04-06 |
-| `quiet-ops-03-the-knowledge-your-business-already-paid-for-leave-behind-eric-hollebone.pdf` | Reference | One page: the OKF, the five rules, the 90-second test | active | Eric Hollebone | 2027-04-06 |
 
 ## Child folders
 
