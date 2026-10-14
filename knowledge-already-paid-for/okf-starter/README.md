@@ -6,7 +6,6 @@ A free starter for giving your operation a company memory that people and AI age
 
 ## What is in here
 
-- `quiet-ops-03-the-knowledge-your-business-already-paid-for-leave-behind-eric-hollebone.pdf`: one page. What the OKF is, the five rules, and the 90-second test.
 - `operations-knowledge/`: a small, working example of a knowledge folder. Copy it.
 - `okf-folder/`: a skill for your AI agent. Tell it: "Load the okf-folder skill, then start with the folder `<path>`." It builds the README.md and index.md files for you.
 - `LICENSE`: MIT. Use it freely.
